@@ -1,0 +1,7 @@
+C:\Users\speednow\Desktop\BSK\BSK\bin\Debug\BSK.exe.config
+C:\Users\speednow\Desktop\BSK\BSK\bin\Debug\BSK.exe
+C:\Users\speednow\Desktop\BSK\BSK\bin\Debug\BSK.pdb
+C:\Users\speednow\Desktop\BSK\BSK\obj\Debug\BSK.csprojAssemblyReference.cache
+C:\Users\speednow\Desktop\BSK\BSK\obj\Debug\BSK.csproj.CoreCompileInputs.cache
+C:\Users\speednow\Desktop\BSK\BSK\obj\Debug\BSK.exe
+C:\Users\speednow\Desktop\BSK\BSK\obj\Debug\BSK.pdb
